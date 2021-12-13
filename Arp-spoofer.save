@@ -1,0 +1,3 @@
+Arp(Address Resolution Protocol): spoofer allows us to redirect the flow of packets.
+Clients normally connect to each otheron a network using their mac addresses.
+so every machine is link with an ip address from the arp table. 
